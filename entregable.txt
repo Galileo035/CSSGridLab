@@ -1,0 +1,11 @@
+1. ¿Qué elementos afecta nav a {...}?
+Afecta a los enlaces (a) que están dentro del nav.
+
+2. ¿Qué elementos afecta nav , a {...}?
+Afecta a todos los nav y también a todos los enlaces de la página, estén o no dentro del nav, porque la coma separa dos reglas distintas.
+
+3. ¿Qué elementos afecta .l, .o, .v, .e, .r {...}?
+Afecta a los elementos que tengan alguna de esas clases, es decir, las cinco letras L, O, V, E y R de la cuadrícula.
+
+4. ¿Qué hace la propiedad filter y qué propiedades usarías en tus fotos?
+Filter sirve para aplicar efectos a una imagen, como cambiar su brillo, su contraste o sus colores. Aquí se usa para que los iconos se vean blancos. En mis fotos usaría blanco y negro, contraste y un poco de desenfoque.
